@@ -43,7 +43,7 @@
 		13A57936285B824A0010EA2F /* rain_pa.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = rain_pa.m4a; sourceTree = "<group>"; };
 		13A57937285B824A0010EA2F /* belize_1.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = belize_1.m4a; sourceTree = "<group>"; };
 		13A57938285B824A0010EA2F /* paddleboarding.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = paddleboarding.m4a; sourceTree = "<group>"; };
-		13F13F912589A34B00D77E96 /* field-drops.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "field-drops.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		13F13F912589A34B00D77E96 /* Field Drops.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Field Drops.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		13F13F942589A34B00D77E96 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		13F13F962589A34B00D77E96 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		13F13F9A2589A34C00D77E96 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -108,7 +108,7 @@
 		13F13F922589A34B00D77E96 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13F13F912589A34B00D77E96 /* field-drops.app */,
+				13F13F912589A34B00D77E96 /* Field Drops.app */,
 				13F13FA42589A34C00D77E96 /* field-dropsTests.xctest */,
 				13F13FAF2589A34C00D77E96 /* field-dropsUITests.xctest */,
 			);
@@ -176,7 +176,7 @@
 				13304FAB266BDE8900640132 /* FocusEntity */,
 			);
 			productName = "ambient-reality";
-			productReference = 13F13F912589A34B00D77E96 /* field-drops.app */;
+			productReference = 13F13F912589A34B00D77E96 /* Field Drops.app */;
 			productType = "com.apple.product-type.application";
 		};
 		13F13FA32589A34C00D77E96 /* field-dropsTests */ = {
@@ -484,7 +484,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.field-drops.field-drops";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Field Drops";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -505,7 +505,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.field-drops.field-drops";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Field Drops";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
